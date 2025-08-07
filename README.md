@@ -22,12 +22,16 @@ In the file itself you can choose if you want to post on discord, uise the webse
 
 # Currently working for massacre missions only!
 
-#Dashboard Example:
+# Dashboard Example:
+
 📊 Massacre Mission Tracker
+
 CMDR f0rd42
 
 🧮 Total Progress: 40/80 kills (50%)
+
 ⏱️ Kill Rate: 23.4 kills/hour
 
 Massacre 48 Thargoids (25/48) [progress bar]
+
 Massacre 10 Scouts (5/10)     [progress bar]
